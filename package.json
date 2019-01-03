@@ -1,0 +1,19 @@
+{
+  "name": "eloquent-javascript-exercises",
+  "version": "1.0.0",
+  "description": "Exercises done while reading Eloquent JavaScript Third Edition",
+  "main": "N/A",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biehlerj/eloquent-javascript-exercises.git"
+  },
+  "author": "Jacob Biehler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biehlerj/eloquent-javascript-exercises/issues"
+  },
+  "homepage": "https://github.com/biehlerj/eloquent-javascript-exercises#readme"
+}
